@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  line-height: 2em;
+  /*color: #ffff;*/
+}
+header{
+  background-color: #ffff;
+  /*color: #ffff;*/
+}
+
+.overflow-banner{
+  top: 30%
+}
+.overflow-banner-child{
+  background-color: #ffff;
+  border-radius: 15px;
+  box-shadow: -3px 2px 100px #f9f6f2;
+
+}
+.overflow-banner-child h2{
+  color: #ff9900;
+
+}
+
+.icon{
+  color: #ff9900;
+}
